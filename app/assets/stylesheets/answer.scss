@@ -1,0 +1,41 @@
+// Place all the styles related to the answer controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+}
+
+.btn {
+  background: blue;
+  color: white;
+  padding: 6px;
+  border-radius: 4px;
+  margin: 3px;
+  text-decoration: none;
+  width: 200px;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+.btn a {
+  text-decoration: none;
+  color: white;
+}
+
+.you {
+  border-left: solid;
+  border-width: 3px;
+  border-color: lightgrey;
+  padding: 10px;
+  width: 300px;
+}
+
+.coach {
+  border-left: solid;
+  border-width: 3px;
+  border-color: lightgrey;
+  padding: 10px;
+  background-color: lightyellow;
+  width: 500px;
+}
